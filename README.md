@@ -1,4 +1,4 @@
-
+````markdown
 # CSV-Cleaner
 
 A simple Python data cleaning pipeline built with **Pandas** and **NumPy**. This project demonstrates common data cleaning tasks performed on messy customer data before analysis.
@@ -17,6 +17,7 @@ The pipeline performs the following cleaning operations:
 
 ## Project Structure
 
+```text
 CSV-Cleaner/
 │
 ├── cleaner.py         # Data cleaning functions
@@ -25,7 +26,7 @@ CSV-Cleaner/
 ├── output.csv         # Cleaned dataset
 ├── requirements.txt
 └── README.md
-
+```
 
 ## Skills Demonstrated
 
@@ -36,4 +37,4 @@ CSV-Cleaner/
 - Data validation
 - Modular Python programming
 - ETL pipeline design
-
+````

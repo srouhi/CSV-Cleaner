@@ -23,7 +23,6 @@ CSV-Cleaner/
 ├── main.py            # Runs the cleaning pipeline
 ├── input.csv          # Sample raw dataset
 ├── output.csv         # Cleaned dataset
-├── requirements.txt
 └── README.md
 ```
 
